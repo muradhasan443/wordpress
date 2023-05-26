@@ -15,4 +15,4 @@ jobs:
 
     - name: Extract zip file
       run: |
-        unzip wordpress/blob/main/wordpress-6.2.2.zip -d wordpress/blob/main/
+        unzip https://github.com/muradhasan443/wordpress/wordpress-6.2.2.zip -d https://github.com/muradhasan443/wordpress/
