@@ -15,4 +15,4 @@ jobs:
 
     - name: Extract zip file
       run: |
-        unzip ./wordpress-6.2.2.zip -d ./extracted
+        unzip ./wordpress-6.2.2.zip -d ./wordpress/
